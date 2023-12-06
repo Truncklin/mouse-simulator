@@ -259,6 +259,7 @@ Received Import Request.
 Start importing Assets/uploads_files_3268114_razer+deathvader+v2+pro.2.fbx using Guid(d41b0b07aca8be544be5da61d76fd0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28673eeeb405bff22bb139514b14d611') in 0.1383586 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 45
 
+<<<<<<< HEAD
 ========================================================================
 Received Prepare
 Couldn't register non-exiting asset root folder: 'Assets'
@@ -321,3 +322,5 @@ Memory consumption went from 101.1 MB to 101.1 MB.
 Total: 3.997700 ms (FindLiveObjects: 0.057900 ms CreateObjectMapping: 0.005000 ms MarkObjects: 3.908600 ms  DeleteObjects: 0.023800 ms)
 
 Prepare: number of updated asset objects reloaded= 2
+=======
+>>>>>>> 47bf980fee80d6782c5fdc8c5da3b461cf705562

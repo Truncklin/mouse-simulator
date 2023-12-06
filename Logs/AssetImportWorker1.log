@@ -195,6 +195,7 @@ Unloading 3130 unused Assets / (1.0 MB). Loaded Objects now: 3688.
 Memory consumption went from 114.5 MB to 113.4 MB.
 Total: 7.063000 ms (FindLiveObjects: 0.621400 ms CreateObjectMapping: 0.320900 ms MarkObjects: 4.786700 ms  DeleteObjects: 1.332700 ms)
 
+<<<<<<< HEAD
 ========================================================================
 Received Prepare
 Couldn't register non-exiting asset root folder: 'Assets'
@@ -257,3 +258,5 @@ Memory consumption went from 100.3 MB to 100.3 MB.
 Total: 3.803200 ms (FindLiveObjects: 0.045000 ms CreateObjectMapping: 0.004100 ms MarkObjects: 3.746900 ms  DeleteObjects: 0.005800 ms)
 
 Prepare: number of updated asset objects reloaded= 2
+=======
+>>>>>>> 47bf980fee80d6782c5fdc8c5da3b461cf705562
